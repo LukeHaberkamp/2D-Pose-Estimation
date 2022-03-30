@@ -67,5 +67,6 @@ files.download('excelResults.xlsx')
 ```````
 
 Graphs can be viewed locally in Colab by adjusting the dropdown in the final cell
+Shown below is a sample graph of Knee Flexion vs. Time from the .gif above
 
 <img width="840" alt="Screen Shot 2022-03-30 at 7 17 21 PM" src="https://user-images.githubusercontent.com/75814890/160946182-fac240aa-b0ea-476c-86ce-c01dd772f97a.png">

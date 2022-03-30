@@ -43,12 +43,12 @@ To view your video with OpenPose overlayed, view the output.mp4 video.
 
 The kinematics portion of the Google Colab code, will calculate either sagittal or frontal plane joint angles based off the field of view.
 The joint angles include:
-Sagittal
+*Sagittal
 - Forward Trunk Lean 
 - Hip Flexion (+ flexion/ -extension)
 - Knee Flexion (+ flexion/ -extension)
 - Ankle Dorsiflexion (+ flexion/ -extension)
-Frontal
+*Frontal
 - Pelvic Drop (+ contralateral drop)
 - Hip Adduction (+ adduction/- abduction)
 - Knee Abduction (+ abduction/- adduction)

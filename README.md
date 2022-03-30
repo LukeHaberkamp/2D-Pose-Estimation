@@ -56,6 +56,7 @@ Frontal
 - Knee Abduction (+ abduction/- adduction)
 
 
+
 The kinematics are exported to Microsoft Excel with the name excelResults.xlsx
 
 Running the code from the cell below will download these files for the user

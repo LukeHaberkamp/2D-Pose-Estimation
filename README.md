@@ -13,7 +13,7 @@ Click on "Open in Colab" from the 2D_Pose_Estimation.ipynb file, to open the cod
 Run each cell in the code to install, buid, and perform kinematic analysis using OpenPose. 
 
 Ensure that cells are run in a specific order:
-1) install and build OpenPose and ensure your video is imported and the path is correctly set
+1) install and build OpenPose and ensure your video is imported with the path correctly set
 2) run the kinematics code applying OpenPose
 3) view your results
 

@@ -1,7 +1,7 @@
 # "Validity of single-leg squat kinematics determined by an artificial intelligence, human pose estimation model" Colab Code
 The code features an implementation of OpenPose which can be found at https://github.com/CMU-Perceptual-Computing-Lab/openpose
 
-By using OpenPose, 2D kinematics can be calculated
+By using OpenPose, 2D kinematics can be evaluated
 ## Prerequisites
 The code implements OpenPose to calculate lower body kinematics in Google Colab, which is a free virtual Jupyter notebook environment in the cloud. Therefore, the user does not need any local installation. 
 
